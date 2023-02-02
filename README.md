@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YusifShikhseyidov
+- 👋 Hi, I’m Yusif Shikhseyidov
 - 👀 I’m interested in Front-End web development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently doing projects using React and Redux
 - 📫 You can reach me by my email address: yusif1580@gmail.com
 
 <!---
